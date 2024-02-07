@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Onur Ali Korkmaz
 - 💻 I am studying Computer Engineering at [Bilecik Şeyh Edebali University](https://bilecik.edu.tr) 
-- 👀 I’m interested in Java,C and Flutter
+- 👀 I’m interested in Python, C and Ros2
 - 🌱  I’m currently learning everything 🤣
 
 ## Connect with me:
