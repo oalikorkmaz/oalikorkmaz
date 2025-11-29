@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Onur Ali Korkmaz</h1>
 <h3 align="center">A passionate embedded software developer in Turkey</h3>
 
-- 🔭 I’m currently working on ROS2 **ros2_example**
+- 🔭 I’m currently working on IoT
 
-- 🌱 I’m currently learning **Python, OpenCV, IoT, AI**
+- 🌱 I’m currently learning **C/C++, Python, IoT, AI**
 
 - 📫 How to reach me **onurkoorkmaz@gmail.com**
 
